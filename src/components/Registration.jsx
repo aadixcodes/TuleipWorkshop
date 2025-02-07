@@ -30,7 +30,7 @@ export default function Registration() {
           </div>
           
           <button className="px-8 py-4 bg-[#FE661F] text-white rounded-full text-lg font-semibold hover:bg-[#FE661F]/90 transform hover:scale-105 transition-all">
-            Register Now
+           <a href="/register-for-workshop">Register Now</a> 
           </button>
           
           <p className="mt-4 text-gray-500 dark:text-gray-400 text-sm">

@@ -98,7 +98,7 @@ export default function Header() {
           ))}
           <div className="flex justify-center mt-4">
             <a
-              href="#register"
+              href="/register-for-workshop"
               className="px-6 py-2 bg-[#FE661F] text-white rounded-full hover:bg-[#FE661F]/90 transition-colors"
             >
               Join Now

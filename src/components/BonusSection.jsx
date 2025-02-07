@@ -163,7 +163,7 @@ export default function BonusSection() {
 
           <div className="mt-12 text-center">
             <Link
-              href="/register"
+              href="/register-for-workshop"
               className="inline-flex flex-col items-center justify-center w-full max-w-lg mx-auto px-6 py-2 bg-[#FE661F] text-white font-bold rounded-lg hover:bg-[#FF5500] transition-colors duration-300 group"
             >
               <div className="flex items-center">

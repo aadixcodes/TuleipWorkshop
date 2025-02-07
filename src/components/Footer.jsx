@@ -164,7 +164,7 @@ export default function StickyFooter() {
           </div>
           
           <Link
-            href="/register"
+            href="/register-for-workshop"
             className="bg-[#FE661F] text-white px-8 py-3.5 rounded-full hover:bg-[#FF5500] transition-colors text-base md:text-lg font-semibold hover:scale-105 transform duration-200 shadow-md w-full md:w-auto text-center"
           >
             Join Now
