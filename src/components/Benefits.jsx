@@ -29,9 +29,9 @@ const benefits = [
 
 export default function Benefits() {
   return (
-    <section id="benefits" className="py-16 bg-white dark:bg-[#1A1D1F] transition-colors duration-200">
+    <section id="benefits" className="pt-8 pb-16 bg-white dark:bg-[#1A1D1F] transition-colors duration-200">
       <div className="container mx-auto px-4">
-        <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white text-center mb-12">
+        <h2 className="text-3xl md:text-5xl font-bold text-gray-900 dark:text-white text-center mb-12">
           What You'll <span className="text-[#FE661F]">Get</span>
         </h2>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 max-w-6xl mx-auto">

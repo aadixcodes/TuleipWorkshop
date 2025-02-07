@@ -10,7 +10,6 @@ const navLinks = [
   { name: 'AI Tools', href: '#tools' },
   { name: 'Testimonials', href: '#testimonials' },
   { name: 'Mentor', href: '#mentor' },
-  { name: 'Register Now', href: '#register' },
 ];
 
 export default function Header() {

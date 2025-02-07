@@ -2,8 +2,15 @@ import { Clock } from 'lucide-react';
 
 export default function Registration() {
   return (
-    <section id="register" className="py-16 bg-white dark:bg-[#1A1D1F] transition-colors duration-200">
+    <section id="register" className="pb-[20rem] md:pb-[13rem] lg:pb-[10rem] bg-white dark:bg-[#1A1D1F] transition-colors duration-200">
       <div className="container mx-auto px-4">
+          <svg 
+            xmlns="http://www.w3.org/2000/svg" 
+            viewBox="0 0 200 20" 
+            className="w-full h-4 text-[#fe661f] mb-8 dark:text-[#fe661f]"
+          >
+            <path d="M0,10 Q50,5 100,10 T200,10" fill="none" stroke="currentColor" strokeWidth="2"/>
+          </svg>
         <div className="max-w-2xl mx-auto text-center">
           <h2 className="text-3xl md:text-4xl font-bold text-gray-900 dark:text-white mb-8">
             Register <span className="text-[#FE661F]">Now</span>
