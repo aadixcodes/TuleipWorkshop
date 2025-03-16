@@ -56,7 +56,7 @@ export default function Hero() {
           {/* Image Container */}
           <div className="w-full md:max-w-[500px] flex justify-center">
             <img
-              src="https://i.pinimg.com/736x/19/3b/9f/193b9f10d3ed1143844004fa94c750b9.jpg"
+              src="https://blog.getmanifest.ai/content/images/size/w1200/2023/07/30-Underated04.jpg"
               alt="AI Workshop"
               className="rounded-lg shadow-lg object-contain w-full h-auto max-h-[400px]"
             />
